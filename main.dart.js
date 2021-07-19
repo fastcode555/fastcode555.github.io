@@ -67861,7 +67861,7 @@ $1:function(a){a.c=!1
 return!0},
 $S:33}
 U.UV.prototype={
-$0:function(){return T.lK("https://github.com/asjqkkkk")},
+$0:function(){return T.lK("https://github.com/fastcode555")},
 $S:12}
 U.UW.prototype={
 $0:function(){return T.lK("https://steamcommunity.com/id/JiangHun/")},
